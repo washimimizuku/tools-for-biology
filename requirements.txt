@@ -26,3 +26,4 @@ sorl-thumbnail==11.12
 # Debugging
 django-debugtools >= 1.2
 bpython >= 0.13
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
