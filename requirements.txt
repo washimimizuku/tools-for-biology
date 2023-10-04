@@ -2,7 +2,7 @@
 
 # Infrastructure
 Django >= 1.6.5
-Pillow==9.4.0
+Pillow==10.0.1
 #for MySQL: MySQL-python==1.2.5
 #for PostgreSQL: psycopg2==2.5.3
 python-memcached==1.53
